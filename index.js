@@ -1,7 +1,7 @@
-const article = ["the", "my", "a", "someones", "everyones" ]
-const subject = ["car", "shoes", "brain", "wife", "dog"]
+const article = ["The", "My", "A", "Someones", "Everyones" ]
+const subject = ["car", "shoes", "brain", "", "dog"]
 const action = ["stopped", "exploded", "broke", "shredded", "distroyed"]
-const what = ["my pants"]
+const what = ["my homework"]
 const predicate = ["really bad", "completly", "slowly", "loudly", "really fast"]
 
 
